@@ -1,0 +1,58 @@
+h1{
+    margin-left: 10%;
+    color: black;
+    position: absolute;
+    padding-top: 25px;
+    font-size: 30px;
+}
+
+.card-header{
+    font-weight: bold;
+    background-color: darkgrey;
+    font-size: 20px;
+    font-family: "Malayalam MN";
+}
+.card-body{
+    background-color: lightgrey;
+    color: black;
+    font-weight: lighter;
+}
+
+.kareem{
+    width: 100px;
+    height: 15vh;
+    position: relative;
+    float: left;
+    padding-right: 15px;
+}
+
+.kobe{
+    width: 100px;
+    height: 15vh;
+    position: relative;
+    float: left;
+    padding-right: 15px;
+}
+.lebronj{
+    width: 100px;
+    height: 15vh;
+    position: relative;
+    float: left;
+    padding-right: 15px;
+}
+.magic{
+    width: 100px;
+    height: 15vh;
+    position: relative;
+    float: left;
+    padding-right: 15px;
+    padding-bottom: 10px;
+}
+.jordan{
+    width: 100px;
+    height: 15vh;
+    position: relative;
+    float: left;
+    padding-right: 15px;
+    padding-bottom: 15px;
+}

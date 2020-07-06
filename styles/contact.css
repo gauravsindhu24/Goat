@@ -1,0 +1,29 @@
+
+header h1{
+    margin-left: 10%;
+    color: black;
+    font-weight: lighter;
+    position: absolute;
+    padding-top: 25px;
+    font-size: 30px;
+}
+.container-fluid{
+    padding-top: 6%;
+    padding-bottom: 30%;
+}
+
+.container-fluid{
+    background-image: url("logo.jpg");
+    background-position: center;
+    background-size: 108%;
+}
+.btn-primary{
+    color: black;
+}
+
+.btn{
+    background-color: cornflowerblue;
+}
+header{
+    background-color: white;
+}

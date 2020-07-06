@@ -1,0 +1,39 @@
+
+header h1{
+    font-weight: bold;
+    padding-left: 1%;
+    font-family: "Al Bayan", serif;
+    background-color: lightgrey;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.btn-primary{
+    color: black;
+    background-color: royalblue;
+}
+.card{
+    background-color: lightgrey;
+    margin-bottom: 0;
+}
+.card1{
+    background-color: darkgrey;
+    color: black;
+}
+.card5{
+    background-color: darkgrey;
+    color: black;
+    margin-bottom: 3%;
+}
+.card-body{
+    color: black;
+}
+.card{
+    background-color: lightgrey;
+}
+.card-title{
+    font-family: "Avenir Next", sans-serif
+}
+.card-text{
+    font-weight: lighter;
+    font-family: "Iowan Old Style"
+}

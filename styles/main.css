@@ -1,0 +1,115 @@
+html{
+    background-color: lightgrey;
+}
+.rip{
+    margin-top: 0%;
+    margin-bottom: 0%;
+    color: white;
+    background-color: black;
+}
+.carousel-item{
+    height: 100vh;
+    min-height: 300px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+.carousel-caption{
+    bottom: 270px;
+}
+
+.carousel-caption h5{
+    font-size: 45px;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-top: 25px;
+}
+.carousel-caption p{
+    width: 75%;
+    margin: auto;
+    font-size: 18px;
+    line-height: 1.9;
+}
+
+nav {
+
+
+    background-color: black;
+}
+
+@media screen and (max-width: 900px){
+    nav{
+        background-color: black;
+    }
+    .navbar-toggler-icon {
+        background-color: lightgrey;
+    }
+}
+
+.nav-link{
+    color: white;
+}
+
+.navbar-brand{
+    color: white;
+    font-weight: bold;
+    font-size: 50pt;
+}
+.logo{
+    position: relative;
+    width: 150px;
+    height: 15vh;
+    float: left;
+
+}
+.wade{
+    width: 180px;
+    height: 20vh;
+    position: relative;
+    border-radius: 50%;
+}
+.lebron{
+    border-radius: 50%;
+    width: 180px;
+    height: 20vh;
+}
+.shaq{
+    border-radius: 50%;
+    width: 180px;
+    height: 20vh;
+}
+
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    padding-bottom: 10px;
+    width: 100%;
+    background-color: black;
+    text-align: center;
+    font-size: 12px;
+}
+footer p{
+    color: white;
+}
+.card{
+    margin-bottom: 60px;
+}
+.card img{
+    max-width: 50%;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+
+.navbar-nav{
+    color: pink;
+}
+
+.cardh{
+    background-color: black;
+    color: white;
+    padding-top: 2%;
+}
